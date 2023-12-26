@@ -1,0 +1,324 @@
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\bin\Debug\Orion.exe.config
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\bin\Debug\Orion.exe
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\bin\Debug\Orion.pdb
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\bin\Debug\SQLite.Designer.pdb
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmCollection.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPayment.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.Forms.Setup.frmBusinessInformation.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmCustomerInfo.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmBarcode.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmGroup.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmImportItem.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmItemInformation.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmListOfItem.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmEmployee.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmAttendance.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmEmployeePayment.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmChangePassword.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmExpiredItem.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmLanguage.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmExpenses.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmExpenditureAccount.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmLogIn.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmResetDatabase.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmBadStock.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmInvoicePrint.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmConfiguration.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmCustomerDisplay.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmMDIParent.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmUsers.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmShelf.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmWarehouse.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSupplierInfo.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmVAT.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmStock.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchase.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchaseReceipt.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchaseList.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmStockTransfer.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSales.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSalesList.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPOS.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmMsgBox.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmShippingDetails.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchaseReturn.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSalesReturn.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchaseReturnReport.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPrintPreviewBarcode.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSaleReturnReport.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportExpenses.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportCredit.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportEmployee.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportItem.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportPurchase.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportReturn.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportSales.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportStock.resources
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.exe
+C:\Users\Lenovo\Desktop\Orion_Script\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\bin\Debug\Orion.exe.config
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.csproj.ResolveComReference.cache
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.exe
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\bin\Debug\Orion.exe
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\bin\Debug\Orion.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\bin\Debug\SQLite.Designer.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.csprojResolveAssemblyReference.cache
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmCollection.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPayment.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.Forms.Setup.frmBusinessInformation.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmCustomerInfo.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmBarcode.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmGroup.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmImportItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmItemInformation.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmListOfItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmEmployee.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmAttendance.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmEmployeePayment.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmChangePassword.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmExpiredItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmLanguage.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmExpenses.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmExpenditureAccount.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmLogIn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmResetDatabase.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmBadStock.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmInvoicePrint.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmConfiguration.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmCustomerDisplay.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmMDIParent.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmUsers.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmShelf.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmWarehouse.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSupplierInfo.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmVAT.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmStock.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchase.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchaseReceipt.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchaseList.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmStockTransfer.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSales.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSalesList.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPOS.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmMsgBox.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmShippingDetails.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchaseReturn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSalesReturn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPurchaseReturnReport.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmPrintPreviewBarcode.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmSaleReturnReport.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportExpenses.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.Properties.Resources.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportCredit.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportEmployee.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportPurchase.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportReturn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportSales.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.frmReportStock.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\Source File\Orion\obj\Debug\Orion.csproj.GenerateResource.Cache
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\bin\Debug\Orion.exe.config
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.csproj.ResolveComReference.cache
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.exe
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\bin\Debug\Orion.exe
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\bin\Debug\Orion.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\bin\Debug\SQLite.Designer.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.csprojResolveAssemblyReference.cache
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmCollection.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmPayment.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.Forms.Setup.frmBusinessInformation.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmCustomerInfo.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmBarcode.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmGroup.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmImportItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmItemInformation.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmListOfItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmEmployee.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmAttendance.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmEmployeePayment.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmChangePassword.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmExpiredItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmLanguage.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmExpenses.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmExpenditureAccount.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmLogIn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmResetDatabase.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmBadStock.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmInvoicePrint.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmConfiguration.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmCustomerDisplay.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmMDIParent.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmUsers.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmShelf.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmWarehouse.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmSupplierInfo.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmVAT.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmStock.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmPurchase.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmPurchaseReceipt.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmPurchaseList.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmStockTransfer.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmSales.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmSalesList.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmPOS.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmMsgBox.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmShippingDetails.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmPurchaseReturn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmSalesReturn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmPurchaseReturnReport.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmPrintPreviewBarcode.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmSaleReturnReport.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmReportExpenses.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.Properties.Resources.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmReportCredit.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmReportEmployee.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmReportItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmReportPurchase.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmReportReturn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmReportSales.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.frmReportStock.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\obj\Debug\Orion.csproj.GenerateResource.Cache
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\bin\Debug\CrystalDecisions.Shared.dll
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL\Source File\Orion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\bin\Debug\Orion.exe.config
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.csproj.ResolveComReference.cache
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.exe
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\bin\Debug\Orion.exe
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\bin\Debug\Orion.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\bin\Debug\CrystalDecisions.Shared.dll
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\bin\Debug\SQLite.Designer.pdb
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.csprojResolveAssemblyReference.cache
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmCollection.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmPayment.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.Forms.Setup.frmBusinessInformation.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmCustomerInfo.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmBarcode.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmGroup.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmImportItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmItemInformation.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmListOfItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmEmployee.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmAttendance.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmEmployeePayment.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmChangePassword.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmExpiredItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmLanguage.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmExpenses.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmExpenditureAccount.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmLogIn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmResetDatabase.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmBadStock.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmInvoicePrint.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmConfiguration.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmCustomerDisplay.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmMDIParent.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmUsers.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmShelf.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmWarehouse.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmSupplierInfo.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmVAT.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmStock.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchase.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchaseReceipt.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchaseList.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmStockTransfer.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmSales.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmSalesList.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmPOS.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmMsgBox.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmShippingDetails.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchaseReturn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmSalesReturn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchaseReturnReport.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmPrintPreviewBarcode.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmSaleReturnReport.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportExpenses.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.Properties.Resources.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportCredit.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportEmployee.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportItem.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportPurchase.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportReturn.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportSales.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportStock.resources
+E:\Update Running\Orion\Orion - Multilingual Advance Stock Manager with Point of sale\RTL Version\Source File\Orion\obj\Debug\Orion.csproj.GenerateResource.Cache
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\bin\Debug\Orion.exe.config
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\bin\Debug\Orion.exe
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\bin\Debug\Orion.pdb
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\bin\Debug\EnvDTE.dll
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\bin\Debug\stdole.dll
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\bin\Debug\SQLite.Designer.pdb
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.csprojAssemblyReference.cache
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.csproj.ResolveComReference.cache
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmCollection.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmPayment.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.Forms.Setup.frmBusinessInformation.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmCustomerInfo.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmBarcode.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmGroup.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmImportItem.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmItemInformation.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmListOfItem.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmEmployee.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmAttendance.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmEmployeePayment.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmChangePassword.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmExpiredItem.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmLanguage.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmExpenses.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmExpenditureAccount.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmLogIn.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmResetDatabase.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmBadStock.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmInvoicePrint.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmConfiguration.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmCustomerDisplay.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmMDIParent.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmUsers.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmShelf.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmWarehouse.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmSupplierInfo.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmVAT.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmStock.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchase.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchaseReceipt.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchaseList.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmStockTransfer.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmSales.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmSalesList.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmPOS.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmMsgBox.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmShippingDetails.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchaseReturn.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmSalesReturn.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmPurchaseReturnReport.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmPrintPreviewBarcode.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmSaleReturnReport.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportExpenses.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.Properties.Resources.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportCredit.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportEmployee.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportItem.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportPurchase.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportReturn.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportSales.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.frmReportStock.resources
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.csproj.GenerateResource.cache
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.csproj.CoreCompileInputs.cache
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.csproj.CopyComplete
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.exe
+D:\Sample Projects\codecanyon-22692552-orion-multilingual-advance-stock-manager-with-point-of-sale-system\Orion\RTL Version\Source File\Orion\obj\Debug\Orion.pdb

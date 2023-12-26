@@ -1,0 +1,169 @@
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\Hisab Kitab.exe.config
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\Hisab Kitab.exe
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\Hisab Kitab.pdb
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\EnvDTE.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\stdole.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csprojAssemblyReference.cache
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csproj.ResolveComReference.cache
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmCollection.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPayment.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.Forms.Setup.frmBusinessInformation.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmCustomerInfo.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmBarcode.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmGroup.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmImportItem.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmItemInformation.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmListOfItem.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmEmployee.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmAttendance.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmEmployeePayment.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmChangePassword.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmExpiredItem.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmLanguage.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmExpenses.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmExpenditureAccount.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmLogIn.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmResetDatabase.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmBadStock.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmInvoicePrint.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmConfiguration.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmCustomerDisplay.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmMDIParent.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmUsers.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmShelf.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmWarehouse.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSupplierInfo.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmVAT.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmStock.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchase.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchaseReceipt.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchaseList.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmStockTransfer.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSales.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSalesList.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPOS.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmMsgBox.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmShippingDetails.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchaseReturn.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSalesReturn.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchaseReturnReport.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPrintPreviewBarcode.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSaleReturnReport.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportExpenses.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.Properties.Resources.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportCredit.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportEmployee.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportItem.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportPurchase.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportReturn.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportSales.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportStock.resources
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csproj.GenerateResource.cache
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csproj.CoreCompileInputs.cache
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csproj.CopyComplete
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.exe
+D:\Projects\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.pdb
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\Hisab Kitab.exe.config
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\Hisab Kitab.exe
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\Hisab Kitab.pdb
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\EnvDTE.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\stdole.dll
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\bin\Debug\SQLite.Designer.pdb
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csproj.AssemblyReference.cache
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csproj.ResolveComReference.cache
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmCollection.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPayment.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.Forms.Setup.frmBusinessInformation.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmCustomerInfo.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmBarcode.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmGroup.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmImportItem.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmItemInformation.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmListOfItem.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmEmployee.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmAttendance.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmEmployeePayment.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmChangePassword.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmExpiredItem.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmLanguage.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmExpenses.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmExpenditureAccount.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmLogIn.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmResetDatabase.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmBadStock.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmInvoicePrint.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmConfiguration.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmCustomerDisplay.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmMDIParent.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmUsers.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmShelf.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmWarehouse.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSupplierInfo.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmVAT.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmStock.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchase.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchaseReceipt.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchaseList.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmStockTransfer.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSales.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSalesList.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPOS.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmMsgBox.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmShippingDetails.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchaseReturn.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSalesReturn.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPurchaseReturnReport.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmPrintPreviewBarcode.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmSaleReturnReport.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportExpenses.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.Properties.Resources.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportCredit.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportEmployee.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportItem.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportPurchase.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportReturn.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportSales.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\HisabKitab.frmReportStock.resources
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csproj.GenerateResource.cache
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csproj.CoreCompileInputs.cache
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.csproj.CopyComplete
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.exe
+C:\Users\mutee\Downloads\wetransfer_hisab-kitab-setup-zip_2023-12-22_1133\Hisab Kitab\Hisab Kitab\obj\Debug\Hisab Kitab.pdb
